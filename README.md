@@ -1,1 +1,1 @@
-# Coursera-Deep-Learning-Specialization
+# Coursera-Machine-Learning-Specialization
